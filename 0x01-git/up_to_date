@@ -1,1 +1,2 @@
 sudo touch up_to_date
+sudo git pull origin master
